@@ -1,4 +1,6 @@
-# Unity3D BSP Importer
+# unity-bsp
+
+A fork of [Unity3d-BSP-Importer](https://github.com/wfowler1/Unity3D-BSP-Importer) by wfowler1
 
 A lightweight plugin for importing BSP maps into Unity3D as meshes. Currently only imports World and Entities and their surfaces.
 
